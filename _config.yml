@@ -1,7 +1,7 @@
 # Site settings
-title: My Territory
-default_author: Shikher Verma
-description: "Online Territory of Shikher Verma"  # used in site head
+title: Rubanraj
+default_author: Rubanraj Ravichandran
+description: "My learning experiences"  # used in site head
 
 # register on google analytics and replace this token
 google_analytics: UA-75681059-1
